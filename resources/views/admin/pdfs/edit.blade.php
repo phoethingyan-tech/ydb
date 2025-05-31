@@ -79,7 +79,7 @@
                     @enderror
                 </div>                
 
-                <input type="hidden" name="user_id" value="2">
+                <input type="hidden" name="user_id" value="1">
                 
                 <div class="d-grid gap-2">
                     <button type="submit" class="btn btn-warning mb-3">Update</button>
